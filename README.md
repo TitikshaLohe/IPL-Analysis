@@ -10,8 +10,6 @@
  1) As a data-savvy cricket enthusiast, I performed primary and secondary analysis.
  2) To design a dashboard showing key metrics, player summary and team performance.
 
-![IPL ppt.pptx](https://github.com/TitikshaLohe/IPL-Analysis/files/15157771/IPL.ppt.pptx)
-
 ## Findings:
 1) Best 11 players selected based on their positions and last three years data performance for IPL 2024
 2) The last three years were analyzed to predict the Title winner, Orange Cap holder and Purple Cap holder for season 2024.
